@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List View</string>
+
+
+    <string-array name="technology_list">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>.Net</item>
+    </string-array>
+</resources>
